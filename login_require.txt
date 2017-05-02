@@ -1,0 +1,12 @@
+
+this application require: python3.4
+
+ superuserlogin user: admin1
+  pwd: pass1122
+
+
+
+
+user login:
+ kathy12, minhtest, test1, trangtest, user1
+ pwd: pass1122
